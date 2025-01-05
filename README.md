@@ -54,7 +54,9 @@
   <a href="https://wa.me/5595991502939" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="40" alt="whatsapp logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/gajonuco" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
+  </a>
   <a href="https://t.me/+5595991502939" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="40" alt="telegram logo"  />
   </a>
