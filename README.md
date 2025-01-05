@@ -46,24 +46,25 @@
 
 <div align="left">
   <a href="mailto:gajonuco@gmail.com?subject=Oportunidade%20como%20Desenvolvedor%20Java&body=Olá,%0D%0A%0D%0AEspero%20que%20esta%20mensagem%20o%20encontre%20bem.%20Sou%20um%20Tech%20Recruiter%20interessado%20em%20conversar%20sobre%20uma%20oportunidade%20como%20Desenvolvedor%20Java.%0D%0A%0D%0ASe%20puder,%20por%20favor,%20entre%20em%20contato%20ou%20compartilhe%20um%20momento%20disponível%20para%20uma%20conversa.%0D%0A%0D%0AAtenciosamente,%0D%0A[Seu%20Nome]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-nunez-contasti/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo" />
   </a>
   <a href="https://wa.me/5595991502939" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="whatsapp logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="40" alt="whatsapp logo" />
   </a>
   <a href="https://www.instagram.com/gajonuco" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo" />
   </a>
   <a href="https://t.me/+5595991502939" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="40" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="40" alt="telegram logo" />
   </a>
   <a href="https://www.hackerrank.com/gajonuco" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="40" alt="hackerrank logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="70" height="40" alt="hackerrank logo" />
   </a>
 </div>
+
 
 ###
 
