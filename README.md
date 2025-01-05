@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- ☕ Java Developer<br>- 🎓 Graduated in Technology in Analysis and System Development<br>- 💻 Technical Support at @ixcsoft</p>
+<p align="left">- ☕ Java Developer<br>- 🎓 Graduated in Technology in Analysis and System Development<br>- 💻 Technical Support at <a src="https://ixcsoft.com/"/></a></p>
 
 ###
 
